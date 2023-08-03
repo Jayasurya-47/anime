@@ -1,0 +1,17 @@
+body{
+    background-image: url(mayabazar1.jpg) ;
+    background-size: cover;
+    
+}
+body{
+    text-align: center;
+    color: black;
+    padding: 300px 300px 300px 300px;
+}
+body a{
+    size: 40px;
+}
+body img{
+    padding: 30px;
+
+}
